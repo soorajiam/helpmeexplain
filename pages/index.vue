@@ -389,31 +389,31 @@
                                     <p class="mb-10 text-xl font-medium text-white leading-relaxed max-w-lg">Share a thread and get access to AI to explain and simplify communication for you and that one client who doesnt get you.</p>
                                     <ul>
                                         <li class="mb-5 flex items-center">
-                                            <img class="mr-3" src="../..//fily-assets/features/icon.svg" alt="">
+                                            <img class="mr-3" src="/fily-assets/features/icon.svg" alt="">
                                             <span class="text-lg font-medium text-white">Ask the dumb sounding questions in private and get answers without letting other person know(your client can too)</span>
                                         </li>
                                         <li class="mb-5 flex items-center">
-                                            <img class="mr-3" src="../..//fily-assets/features/icon.svg" alt="">
+                                            <img class="mr-3" src="/fily-assets/features/icon.svg" alt="">
                                             <span class="text-lg font-medium text-white">Craft your ideas to the right format so that the other person can understand</span>
                                         </li>
                                         <li class="mb-5 flex items-center">
-                                            <img class="mr-3" src="../..//fily-assets/features/icon.svg" alt="">
+                                            <img class="mr-3" src="/fily-assets/features/icon.svg" alt="">
                                             <span class="text-lg font-medium text-white">get access to predefined user-personas, It might be your client, collaborator or a contractor, then use it to craft your message for them.</span>
                                         </li>
                                         <li class="mb-5 flex items-center">
-                                            <img class="mr-3" src="../..//fily-assets/features/icon.svg" alt="">
+                                            <img class="mr-3" src="/fily-assets/features/icon.svg" alt="">
                                             <span class="text-lg font-medium text-white">create your own personas and save it.</span>
                                         </li>
                                         <li :class="{'hidden': !showContent}" class="mb-5 flex hidden items-center">
-                                            <img class="mr-3" src="../..//fily-assets/features/icon.svg" alt="">
+                                            <img class="mr-3" src="/fily-assets/features/icon.svg" alt="">
                                             <span class="text-lg font-medium text-white">AI Assistant</span>
                                         </li>
                                         <li :class="{'hidden': !showContent}" class="mb-5 flex hidden items-center">
-                                            <img class="mr-3" src="../..//fily-assets/features/icon.svg" alt="">
+                                            <img class="mr-3" src="/fily-assets/features/icon.svg" alt="">
                                             <span class="text-lg font-medium text-white">Multi-language Support</span>
                                         </li>
                                         <li :class="{'hidden': !showContent}" class="flex hidden items-center">
-                                            <img class="mr-3" src="../..//fily-assets/features/icon.svg" alt="">
+                                            <img class="mr-3" src="/fily-assets/features/icon.svg" alt="">
                                             <span class="text-lg font-medium text-white">Social Media Integration</span>
                                         </li>
                                     </ul>
