@@ -200,8 +200,8 @@
                             <div class="w-full md:w-1/2">
                                 <div class="py-20 xl:pt-40 xl:pb-64 px-12 md:pr-0">
                                     <div class="relative z-10 max-w-3xl mx-auto">
-                                        <h1 class="mb-12 font-heading text-4xl md:text-5xl xl:text-6xl text-white font-bold">
-                <span class="bg-gradient-text" style="background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent">Easy conversations</span> <span>comprehension over technical jargon</span>
+                                        <h1 class="mb-12 font-heading text-4xl md:text-5xl xl:text-6xl  font-bold">
+                <span class="text-indigo-400 animate-pulse" >Easy conversations</span> <span class="text-indigo-600">comprehension over technical jargon</span>
                 </h1>
                                         <p class="mb-16 text-xl text-white font-medium leading-relaxed">The solution for bridging comminication gap due to difference in level of expertise. Give more context, give more control and see more meaningful and deeper conversation. Understanding and clarity over multiple back and forth</p>
                                         <div class="flex flex-wrap items-center -m-4">
