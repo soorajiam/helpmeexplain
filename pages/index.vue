@@ -768,7 +768,7 @@
                             <div class="py-6">
                                 <div class="flex flex-wrap items-center justify-between -m-2">
                                     <div class="w-auto p-2">
-                                        <p class="text-white font-medium">© Shuffle 2023. All rights reserved.</p>
+                                        <p class="text-white font-medium">© Sooraj 2023. All rights reserved.</p>
                                     </div>
                                     <div class="w-auto p-2">
                                         <ul class="flex flex-wrap gap-2">
